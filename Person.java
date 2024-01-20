@@ -8,7 +8,7 @@ class person1 {
         age=a;
      }
      String getfullname(){
-        return firstname+""+lastname;
+        return firstname+" "+lastname;
      }
 }
      public class Person {
